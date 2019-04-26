@@ -4,12 +4,12 @@
 #### install packages
 `npm install`
 
-# development environment
+# development env
   `npm run dev`
-# prod environment
+# prod env
   `npm run build`
   deploy to IIS using iis-node https://github.com/tjanczuk/iisnode
-# prod environment wth Docker
+# prod env wth Docker
   `docker build -t react-redux-boilerplate-docker .`
   `docker run -p 8000:80 react-redux-boilerplate-docker`
   `docker images` see all image list
