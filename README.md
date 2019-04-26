@@ -1,3 +1,4 @@
+`git clone https://github.com/thuannh1027/react-redux-boilerplate.git <project-name>`
 `npm install`
 
 # development environment
