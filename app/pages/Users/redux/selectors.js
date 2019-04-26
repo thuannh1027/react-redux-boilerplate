@@ -21,7 +21,6 @@ const makeSelectLocation = () =>
   );
 
 export {
-  selectGlobal,
   makeSelectUsers,
   makeSelectLoading,
   makeSelectError,
